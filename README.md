@@ -38,6 +38,7 @@
 
 - [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 
 ## Features
